@@ -1,0 +1,15 @@
+## Interface: 30300
+## Title: RefinedBlizzPlates |cff4b0082by Placid|r
+## Notes: Enhanced Blizzlike nameplates, event-driven for performance
+## Version: 1.0.0
+## Author: Placid
+## SavedVariables: RBPPlacidDB
+## X-Date: 2026-07-19
+
+Embeds.xml
+Media.lua
+Settings.lua
+Stacking.lua
+IconPicker.lua
+Functions.lua
+Core.lua
